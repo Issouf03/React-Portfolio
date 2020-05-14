@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Document, Page, pdfjs } from 'react-pdf';
+import { pdfjs, Document, Page } from 'react-pdf';
 import { Container } from 'reactstrap';
 
 import pdf from '../Resume/IssoufKiema_Resume.pdf'
