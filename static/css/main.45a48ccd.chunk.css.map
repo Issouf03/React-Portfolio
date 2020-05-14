@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,OACA,WAGA,CAJA,iBACI,aACF,CAEA,KACE,4lHACF,CANF,QACI,gBAAiB,CACjB,iBACF","file":"main.45a48ccd.chunk.css","sourcesContent":[".footer {\n    min-height: 100px;\n    position: relative;\n  }\n  \n   \n  "]}
