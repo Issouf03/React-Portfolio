@@ -38,4 +38,4 @@ Project is created using :
 
                             ## links
 
-- [Deployed link](https://issouf03.github.io/React-Portfolio/)
+- [Deployed link](https://issouf03.github.io/react-portfolio/)

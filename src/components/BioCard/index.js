@@ -21,12 +21,12 @@ const BioCard = () => {
       <Container>
         <Card className="mx-auto">
           <Row>
-            <Col md="2">
+            <Col md="4">
               <CardImg
                 className="image m-2"  src={image} alt="Profile image"
               />
             </Col>
-            <Col md="10">
+            <Col md="8">
               <CardBody>
                 <CardTitle className="text-success font-weight-bold">
                   <h1>Issouf Kiema</h1>
