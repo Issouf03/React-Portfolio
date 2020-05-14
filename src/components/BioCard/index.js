@@ -20,7 +20,7 @@ const BioCard = () => {
     <>
       <Container>
         <Card className="mx-auto">
-          <Row>
+          <Row className="d-flex flex-direction-row justify-content-between">
             <Col md="4">
               <CardImg
                 className="image m-2"  src={image} alt="Profile image"
