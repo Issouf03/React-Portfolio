@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "type": "Frontend Skills",
+        "skills": [
+            "HTML",
+            "CSS",
+            "Bootstrap",
+            "Materialize",
+            "AJAX",
+            "React"
+        ]
+    },
+    {
+        "id": 2,
+        "type": "Backend Skills",
+        "skills": [
+            "Node.js",
+            "Express",
+            "Mongo/Mongoose",
+            "MySql/Sequelize",
+            "Rest APIs",
+            "JSON"
+        ]
+    },
+    {
+        "id": 3,
+        "type": "Tools & Methodologies",
+        "skills": [
+            "GitHub",
+            "Heroku",
+            "Vs.Code",
+            "NPM"
+        ]
+    },
+    {
+        "id": 4,
+        "type": "Education",
+        "skills": [
+            "Coding Bootcamp, University of Washington",
+            "BS Electrical Engineering, SUNY New Paltz ",
+            "AAS Electronics Engineering Technology, CUNY BCC"
+        ]
+    }
+]

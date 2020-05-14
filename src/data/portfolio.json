@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "img": "indexcap.PNG",
+        "title": "Book-it-Yourself",
+        "repo": "https://github.com/Issouf03/book-it-yourself",
+        "description": "Book-it-yourself is an app that connects artists and promoters across the globe."
+    },
+    {
+        "id": 2,
+        "img": "d&d.png",
+        "title": "D&D Character Generator",
+        "repo": "https://github.com/Issouf03/project-2-DD",
+        "description": "Dungeons & Dragons (also abbreviated as D&D or DnD) is a fantasy tabletop role-playing game that was first published in 1974. This application simulates the character generated portions of the game. Simply view all of your created characters, create a new character, and roll the dice!"
+    },
+    {
+        "id": 3,
+        "img": "day-planer.png",
+        "title": "Day Planner",
+        "repo": "https://github.com/Issouf03/Day-Planner",
+        "description": "A calendar application that allows the user to save events for each hour of the day. Using JavaScript, jQuery, moment.js"
+    },
+    {
+        "id": 4,
+        "img": "demo.gif",
+        "title": "Github Profile Generator",
+        "repo": "https://github.com/Issouf03/Developer-Profile-Generator",
+        "description": "A command-line application that dynamically generates a PDF profile from a GitHub username"
+    },
+    {
+        "id": 5,
+        "img": "event-search-eng.png",
+        "title": "Mamma-Mia Search",
+        "repo": "https://github.com/Issouf03/Mamma-Mia",
+        "description": "Mamma Mia is a search engine application that allows users to look up music events in the United States."
+    },
+    {
+        "id": 6,
+        "img": "PasswordGen.png",
+        "title": "Password Generator",
+        "repo": "https://github.com/Issouf03/Passwords-Generator",
+        "description": "A simple application that generates a random password based on a user-selected criteri."
+    }
+]
