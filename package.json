@@ -17,7 +17,8 @@
     "react-pdf": "^4.1.0",
     "react-router-dom": "^5.1.2",
     "react-scripts": "^3.4.0",
-    "reactstrap": "^8.4.1"
+    "reactstrap": "^8.4.1",
+    "gh-pages": "^2.2.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -40,8 +41,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "gh-pages": "^2.2.0"
   }
 }
